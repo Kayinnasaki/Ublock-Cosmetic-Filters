@@ -2,5 +2,6 @@
 ! Updated: 3/10/2022
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterDeBlue
+! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterDeBlue.txt
 
 twitter.com##.r-qvutc0.r-bcqeeo.r-b88u0q.r-poiln3.r-1loqt21.r-1cvl2hr.css-16my406.css-901oao.css-18t94o4.css-4rbku5:style(color: rgb(15, 20, 25) !important )
