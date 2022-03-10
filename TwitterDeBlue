@@ -1,0 +1,5 @@
+! Title: Kayin's "Why are Notifications Blue?" Filter
+! Updated: Wed, 10 March 2022
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters
+twitter.com##span.r-1cvl2hr:style(color: rgb(15, 20, 25) !important )
