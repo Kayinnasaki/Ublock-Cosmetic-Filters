@@ -1,0 +1,9 @@
+! Title: Kayin's "Disable Twitter Content Warning" Filter
+! Updated: 3/10/2022
+! Expires: 1 day (update frequency)
+! Source: https://gist.github.com/Kayinnasaki/8e27d05bd7edb759757e7db55b9ddec5
+! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters
+twitter.com##div.r-yfv4eo:style(filter: blur(0px) !important)
+twitter.com##div.r-drfeu3:style(background-color: rgba(0, 0, 0, 0.0) !important)
+twitter.com##.r-1e081e0.r-1kihuf0.css-1dbjc4n
+twitter.com##.r-ipm5af.r-zchlnj.r-u8s1d.r-1f1sjgu.r-ymttw5.r-1d2f490.r-1777fci.r-16y2uox.r-eqz5dr.r-1p0dtai.r-1867qdf.r-drfeu3.css-1dbjc4n
