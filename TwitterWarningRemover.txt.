@@ -2,6 +2,8 @@
 ! Updated: 3/10/2022
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterWarningRemover
+! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterWarningRemover.txt
+
 twitter.com##div.r-yfv4eo:style(filter: blur(0px) !important)
 twitter.com##div.r-drfeu3:style(background-color: rgba(0, 0, 0, 0.0) !important)
 twitter.com##.r-1e081e0.r-1kihuf0.css-1dbjc4n
