@@ -1,0 +1,7 @@
+! Title: Kayin's "No Downvote Button" Filter
+! Updated: 3/12/2022
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterWarningRemover
+! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoDownVote.txt
+
+twitter.com##twitter.com##.css-1dbjc4n.r-18u37iz.r-1h0z5md.r-17grq5a
