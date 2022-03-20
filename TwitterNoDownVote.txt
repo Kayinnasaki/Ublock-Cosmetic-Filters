@@ -5,3 +5,4 @@
 ! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoDownVote.txt
 
 twitter.com##.css-1dbjc4n.r-18u37iz.r-1h0z5md.r-17grq5a
+twitter.com##[aria-label="Downvote"]
