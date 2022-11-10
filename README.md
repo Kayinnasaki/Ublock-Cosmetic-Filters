@@ -14,9 +14,13 @@ https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/Twitt
 Does anyone actually use this?? Removes the explore tab from the sidebar so I stop fucking accidentally clicking it
 https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoExplore.txt
 
+## TwitterNoVerified.txt
+Removes the Verified tab in notifactions and, in the future, any other wierd "Verified" tabs. Because who wants to treat people special just cause they spent money?
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterReducedSidebar.txt
+
 ## TwitterReducedSiderbar.txt
 Removes the trending topics and recommended users sidebars from twitter because Fuck That shit
-https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterReducedSidebar.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoExplore.txt
 
 ## TwitterWarningRemover.txt
 Twitter's content sensetivity warning is a great feature that infuriatingly can't be turned off. This removes the feature entirely. Mostly for people who are sick of clicking every NSFW image.
