@@ -1,7 +1,7 @@
 ! Title: Kayin's "Why do I need a tab for people who paid for twitter???" Filter
-! Updated: 11/10/2022
+! Updated: 11/12/2022
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterWarningRemover
 ! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoVerified.txt
 
-twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(2)
+twitter.com##div.r-cpa5s6.r-6b64d0.r-16y2uox.css-1dbjc4n:nth-of-type(2):has(div:last-of-type span:has-text(/^Verified/))
