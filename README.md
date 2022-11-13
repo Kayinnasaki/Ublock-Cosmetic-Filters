@@ -16,7 +16,7 @@ https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/Twitt
 
 ## TwitterNoVerified.txt
 Removes the Verified tab in notifactions and, in the future, any other wierd "Verified" tabs. Because who wants to treat people special just cause they spent money?
-https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterReducedSidebar.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoVerified.txt
 
 ## TwitterReducedSiderbar.txt
 Removes the trending topics and recommended users sidebars from twitter because Fuck That shit
