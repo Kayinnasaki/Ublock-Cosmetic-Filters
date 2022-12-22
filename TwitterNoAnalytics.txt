@@ -1,0 +1,7 @@
+! Title: Kayin's "Why is Analytics there??? Get out of here!!" Filter
+! Updated: 12/22/2022
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterNoAnalytics
+! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoAnalytics.txt
+
+twitter.com##div.r-1h0z5md.r-18u37iz.css-1dbjc4n:nth-of-type(1):has(a[aria-label="View Tweet analytics"])
