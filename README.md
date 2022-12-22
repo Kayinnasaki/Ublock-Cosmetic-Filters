@@ -5,6 +5,10 @@ Mostly me fighting against annoying twitter changes. To use these, go to your ub
 Removes the theme colored names (blue with default twitter) in notifications. Really garish. (Maybe Obsolete?)
 https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterDeBlue.txt
 
+## TwitterNoAnalytics.txt
+Hopefully this is just a dumb test but twitter put the analytics button where the reply to yourself button is and I make way more threads than I check meaningless stats, so goodbye button.
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoAnalytics.txt
+
 ## TwitterNoDownVote.txt
 Meanwhile this feature totally sucks and is basically to get you to moderate rich influencers tweets by... pushing toxic responses lower?? Just fucking block people jfc
 why is it in the "like tweet" spot??? Anyways this removes it!
