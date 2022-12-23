@@ -1,0 +1,7 @@
+! Title: Kayin's "Viewcount is Brainrot" Filter
+! Updated: 12/22/2022
+! Expires: 1 day (update frequency)
+! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterNoViewCount
+! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoViewCount.txt
+
+##div.r-1mf7evn.css-1dbjc4n:has-text(Views)
