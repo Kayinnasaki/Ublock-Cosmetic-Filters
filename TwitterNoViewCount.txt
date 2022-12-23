@@ -5,3 +5,4 @@
 ! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoViewCount.txt
 
 twitter.com##div.r-1mf7evn.css-1dbjc4n:has-text("View")
+twitter.com##.r-1yzf0co.r-s1qlax.r-tzz3ar.r-18u37iz.r-13awgt0.r-5kkj8d.r-1efd50x.r-1dgieki.css-1dbjc4n > .css-1dbjc4n:has-text("View")
