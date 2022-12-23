@@ -1,8 +1,8 @@
 # Ublock-Cosmetic-Filters
 Mostly me fighting against annoying twitter changes. To use these, go to your ublock settings, go to filter lists, hit import and include the links you want.
 
-## TwitterDeBlue.txt *(obsolete)*
-Removes the theme colored names (blue with default twitter) in notifications. Really garish. (Maybe Obsolete?)
+## TwitterDeBlue.txt
+Repurposing to remove the Twitter Blue Sidebar entry
 https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterDeBlue.txt
 
 ## TwitterNoAnalytics.txt
