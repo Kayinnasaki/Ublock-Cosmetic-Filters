@@ -4,4 +4,4 @@
 ! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterNoViewCount
 ! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoViewCount.txt
 
-##div.r-1mf7evn.css-1dbjc4n:has-text(Views)
+##div.r-1mf7evn.css-1dbjc4n:has-text("Views")
