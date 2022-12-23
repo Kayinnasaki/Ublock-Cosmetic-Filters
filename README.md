@@ -1,6 +1,8 @@
 # Ublock-Cosmetic-Filters
 Mostly me fighting against annoying twitter changes. To use these, go to your ublock settings, go to filter lists, hit import and include the links you want.
 
+Also just wanted to say: I'm bad at this stuff, but I'm stubborn. Things will be wrong, or break, or be done assbackard. So if you know more than me, which is likely, please, by all means, put in a pull request or file a bug report.
+
 ## TwitterDeBlue.txt
 Repurposing to remove the Twitter Blue Sidebar entry
 https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterDeBlue.txt
