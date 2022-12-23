@@ -28,8 +28,23 @@ https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/Twitt
 
 ## TwitterReducedSiderbar.txt
 Removes the trending topics and recommended users sidebars from twitter because Fuck That shit
-https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoExplore.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterReducedSidebar.txt
 
 ## TwitterWarningRemover.txt
 Twitter's content sensetivity warning is a great feature that infuriatingly can't be turned off. This removes the feature entirely. Mostly for people who are sick of clicking every NSFW image.
 https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterWarningRemover.txt
+
+
+# Just Gimme a Minimal Twitter Experience
+Cool, copy and paste all of these into ublock! Be careful, things like WarningRemover aren't for everyone.
+
+```
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterDeBlue.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoAnalytics.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoDownVote.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoViewCount.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoExplore.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoVerified.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterReducedSidebar.txt
+https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterWarningRemover.txt
+```
