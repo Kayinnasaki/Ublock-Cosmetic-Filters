@@ -1,5 +1,5 @@
 ! Title: Kayin's "Viewcount is Brainrot" Filter
-! Updated: 1/10/2022
+! Updated: 1/17/2022
 ! Expires: 1 day (update frequency)
 ! Homepage: https://github.com/Kayinnasaki/Ublock-Cosmetic-Filters#TwitterNoViewCount
 ! Redirect: https://raw.githubusercontent.com/Kayinnasaki/Ublock-Cosmetic-Filters/main/TwitterNoViewCount.txt
@@ -8,3 +8,4 @@ twitter.com##div.r-1mf7evn.css-1dbjc4n:has-text("View")
 twitter.com##.r-1yzf0co.r-s1qlax.r-tzz3ar.r-18u37iz.r-13awgt0.r-5kkj8d.r-1efd50x.r-1dgieki.css-1dbjc4n > .css-1dbjc4n:has-text("View")
 twitter.com##.r-qvutc0.r-bcqeeo.r-poiln3.r-18jsvk2.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao:has(div:last-of-type span:has-text(/^View/))
 twitter.com##.r-qvutc0.r-s1qlax.r-bcqeeo.r-poiln3.r-1q142lx.r-14j79pv.css-16my406.css-901oao > .r-qvutc0.r-bcqeeo.r-poiln3.css-16my406.css-901oao
+twitter.com##.r-lrvibr.r-bztko3.r-1ny4l3l.r-bt1l66.r-1777fci.r-1loqt21.css-1dbjc4n.css-18t94o4.css-4rbku5
