@@ -1,3 +1,9 @@
+***These are currently MOSTLY UNMAINTAINED***
+
+The amount of twitter changes got so awful and impossible to keep up with that I started using using a twitter improvement browser extension. Sadly no way to stay on my 'Following' tab with just ublock. :(
+
+Still, if anyone reports issues directly ot better just, has a pull request, I'm still down to try and fix stuff, but if you're new, it's probably better to look elsewhere.
+
 # Ublock-Cosmetic-Filters
 Mostly me fighting against annoying twitter changes. To use these, go to your ublock settings, go to filter lists, hit import and include the links you want.
 
